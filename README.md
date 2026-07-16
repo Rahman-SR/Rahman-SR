@@ -117,5 +117,9 @@ https://github.com/Rahman-SR
   <img src="https://github-readme-stats.vercel.app/api?username=Rahman-SR&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahman-SR&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
+# 🔥 Contribution Streak
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Rahman-SR&theme=github-dark&hide_border=true"/>
+</p>
 ⭐ Thanks for visiting my GitHub profile!
