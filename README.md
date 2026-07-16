@@ -109,6 +109,13 @@ https://ats-resume-sr.vercel.app/
 
 https://github.com/Rahman-SR
 
----
+------
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahman-SR&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahman-SR&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
 
 ⭐ Thanks for visiting my GitHub profile!
