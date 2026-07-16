@@ -1,195 +1,221 @@
-<h1 align="center">Hi 👋, I'm Saidur Rahman</h1>
+<div align="center">
 
-<h3 align="center">
-IT Support Specialist • React Developer • Building Modern SaaS Web Applications
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,100:00F5FF&text=Saidur%20Rahman&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Support%20Specialist%20%7C%20React%20Developer%20%7C%20SaaS%20Builder&descAlignY=58"/>
 
-<p align="center">
-Passionate about solving real-world problems through technology and building practical web applications.
-</p>
+</div>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/saidurrahman-tech">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div align="center">
 
-<a href="https://ats-resume-sr.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;IT+Support+Specialist;React+Developer;Building+Modern+SaaS+Applications;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-<a href="https://github.com/Rahman-SR">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 💜 About Me
 
-I'm an aspiring **IT Support Specialist** and **React Developer** with a background in **Banking Operations**, **Customer Service**, and **Administration**.
+```yaml
+Name: Saidur Rahman
 
-After several years supporting customers through banking operations, I transitioned into Information Technology through continuous learning and hands-on development.
+Role: IT Support Specialist
 
-I enjoy building practical software that solves real-world problems while continuously improving my technical skills.
+Current Focus:
+  - React
+  - SaaS Development
+  - IT Support
+  - Technical Support
+
+Background:
+  - Banking Operations
+  - Customer Service
+  - Administration
+
+Mission:
+  Build software that solves real-world problems.
+```
 
 ---
 
 # 🚀 Featured Projects
 
+<table>
+
+<tr>
+
+<td width="50%">
+
 ## 📄 ATS Resume Builder
 
-Modern ATS-friendly Resume Builder built using React and Supabase.
+Modern ATS Resume Builder
 
-### Features
+✅ Authentication
 
-- ATS-Friendly Resume Templates
-- User Authentication
-- Resume History
-- PDF Export
-- Responsive UI
-- Modern Dashboard
+✅ Resume History
 
-**Tech Stack**
+✅ PDF Export
 
-React • JavaScript • HTML • CSS • Supabase • Git • GitHub • Vercel
+✅ Responsive UI
 
-🌐 Live Demo
+React • Supabase • Vercel
 
-https://ats-resume-sr.vercel.app/
+</td>
 
----
+<td width="50%">
 
 ## 📑 PDF Toolkit
 
-Modern SaaS Web Application for PDF management.
+Modern SaaS Application
 
-### Features
+✅ Merge PDF
 
-- Merge PDF
-- Split PDF
-- Compress PDF
-- Convert PDF
-- Responsive Interface
-- Modern Dashboard
+✅ Split PDF
 
-**Status**
+✅ Compress PDF
 
-🚧 Currently under active development
+✅ Convert PDF
 
-**Tech Stack**
+🚧 Active Development
 
-React • JavaScript • HTML • CSS • Supabase • Git • GitHub • Vercel
+</td>
 
-🌐 Live Demo
+</tr>
 
-https://pdftoolsr.vercel.app/
-
+</table>
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,vercel"/>
 
-</p>
+</div>
 
-### Backend
+<br>
 
-- Supabase
+<div align="center">
 
-### Professional Skills
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
-- IT Support
-- Help Desk Support
-- Technical Troubleshooting
-- Customer Service
-- Banking Operations
-- Microsoft Office
-- Documentation
-- Data Entry
-- Problem Solving
+</div>
 
 ---
 
-# 🌱 Currently Learning
+# 📈 GitHub Analytics
 
-- Advanced React
-- SaaS Development
-- IT Support
-- Help Desk Technologies
-- Cloud Fundamentals
-- AI Assisted Development
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahman-SR&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 📜 Certifications
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahman-SR&layout=compact&theme=tokyonight&hide_border=true"/>
 
-- 🎓 Post Graduate Diploma in Computer Applications (PGDCA)
-- 🏦 IIBF – Certificate Examination for Business Correspondents / Facilitators
-- 🤖 Google AI Essentials
-- 🚀 Google AI for App Building
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahman-SR&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahman-SR&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
 # 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rahman-SR&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Rahman-SR&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rahman-SR&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+⚡ Advanced React
+
+⚡ SaaS Architecture
+
+⚡ Cloud Fundamentals
+
+⚡ IT Support
+
+⚡ Help Desk Technologies
+
+⚡ AI Assisted Development
+```
+
+---
+
+# 📜 Certifications
+
+🎓 PGDCA
+
+🏦 IIBF Business Correspondents / Facilitators
+
+🤖 Google AI Essentials
+
+🚀 Google AI for App Building
 
 ---
 
 # 🎯 2026 Goals
 
-- Build 10 production-ready web applications
-- Launch multiple SaaS products
-- Secure an IT Support / Help Desk role
-- Complete Google IT Support Professional Certificate
-- Learn Cloud Technologies
-- Continue contributing to open-source projects
+- 🚀 Build 10 Production Ready Web Apps
+
+- 🌍 Launch SaaS Products
+
+- 💼 Secure IT Support Role
+
+- ☁️ Learn Cloud Computing
+
+- 📚 Complete Google IT Support
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
-📧 **Email**
+<div align="center">
 
-sairahman247@gmail.com
+<a href="https://www.linkedin.com/in/saidurrahman-tech">
 
-💼 **LinkedIn**
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 
-https://www.linkedin.com/in/saidurrahman-tech
+</a>
 
-🌐 **Portfolio**
+<a href="https://ats-resume-sr.vercel.app/">
 
-https://ats-resume-sr.vercel.app/
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 
-💻 **GitHub**
+</a>
 
-https://github.com/Rahman-SR
+<a href="mailto:sairahman247@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=Rahman-SR&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
-If you like my projects, feel free to ⭐ my repositories.
+</div>
 
-</p>
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+*"Building software one project at a time."*
+
+</div>
