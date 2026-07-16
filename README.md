@@ -1,78 +1,190 @@
-# Hi, I'm Saidur Rahman 👋
+<h1 align="center">Hi 👋, I'm Saidur Rahman</h1>
 
-IT Support Specialist • React Developer • Building Modern Web Applications
+<h3 align="center">
+IT Support Specialist • React Developer • Building Modern SaaS Web Applications
+</h3>
 
----
+<p align="center">
+Passionate about solving real-world problems through technology and building practical web applications.
+</p>
 
-## About Me
+<p align="center">
+<a href="https://www.linkedin.com/in/saidurrahman-tech">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-I'm an aspiring IT Support Specialist with a background in Banking Operations, Customer Service, and Administration.
+<a href="https://ats-resume-sr.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-I enjoy building practical web applications, learning modern technologies, and solving real-world problems through software.
-
-Currently focused on React, JavaScript, Supabase, and SaaS application development while preparing for opportunities in IT Support and Technical Support.
-
----
-
-## Tech Stack
-
-- HTML
-- CSS
-- JavaScript
-- React
-- Supabase
-- Git
-- GitHub
-- Vercel
+<a href="https://github.com/Rahman-SR">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## Featured Projects
+# 👨‍💻 About Me
 
-### ATS Resume Builder
+I'm an aspiring **IT Support Specialist** and **React Developer** with a background in **Banking Operations**, **Customer Service**, and **Administration**.
 
-Modern ATS-friendly Resume Builder with authentication, resume history, and PDF generation.
+After several years supporting customers through banking operations, I transitioned into Information Technology through continuous learning and hands-on development.
 
-**Tech:** React • JavaScript • Supabase • Vercel
+I enjoy building practical software that solves real-world problems while continuously improving my technical skills.
 
 ---
 
-### PDF Toolkit
+# 🚀 Featured Projects
 
-Modern SaaS application for PDF management.
+## 📄 ATS Resume Builder
 
-Current Features:
+Modern ATS-friendly Resume Builder built using React and Supabase.
+
+### Features
+
+- ATS-Friendly Resume Templates
+- User Authentication
+- Resume History
+- PDF Export
+- Responsive UI
+- Modern Dashboard
+
+**Tech Stack**
+
+React • JavaScript • HTML • CSS • Supabase • Git • GitHub • Vercel
+
+🌐 Live Demo
+
+https://ats-resume-sr.vercel.app/
+
+---
+
+## 📑 PDF Toolkit
+
+Modern SaaS Web Application for PDF management.
+
+### Features
 
 - Merge PDF
 - Split PDF
 - Compress PDF
 - Convert PDF
+- Responsive Interface
+- Modern Dashboard
 
-**Status:** Active Development
+**Status**
+
+🚧 Currently under active development
+
+**Tech Stack**
+
+React • JavaScript • HTML • CSS • Supabase • Git • GitHub • Vercel
 
 ---
 
-## Certifications
+# 🛠 Tech Stack
 
-- Post Graduate Diploma in Computer Applications (PGDCA)
-- IIBF – Business Correspondents / Facilitators
-- Google AI Essentials
-- Google AI for App Building
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,vercel"/>
+
+</p>
+
+### Backend
+
+- Supabase
+
+### Professional Skills
+
+- IT Support
+- Help Desk Support
+- Technical Troubleshooting
+- Customer Service
+- Banking Operations
+- Microsoft Office
+- Documentation
+- Data Entry
+- Problem Solving
 
 ---
 
-## Currently Learning
+# 🌱 Currently Learning
 
 - Advanced React
 - SaaS Development
-- Cloud Fundamentals
 - IT Support
+- Help Desk Technologies
+- Cloud Fundamentals
 - AI Assisted Development
 
 ---
 
-## Connect
+# 📜 Certifications
 
-- Portfolio: https://ats-resume-sr.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/saidurrahman-tech
-- Email: sairahman247@gmail.com
+- 🎓 Post Graduate Diploma in Computer Applications (PGDCA)
+- 🏦 IIBF – Certificate Examination for Business Correspondents / Facilitators
+- 🤖 Google AI Essentials
+- 🚀 Google AI for App Building
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahman-SR&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahman-SR&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rahman-SR&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- Build 10 production-ready web applications
+- Launch multiple SaaS products
+- Secure an IT Support / Help Desk role
+- Complete Google IT Support Professional Certificate
+- Learn Cloud Technologies
+- Continue contributing to open-source projects
+
+---
+
+# 🌍 Connect With Me
+
+📧 **Email**
+
+sairahman247@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/saidurrahman-tech
+
+🌐 **Portfolio**
+
+https://ats-resume-sr.vercel.app/
+
+💻 **GitHub**
+
+https://github.com/Rahman-SR
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+If you like my projects, feel free to ⭐ my repositories.
+
+</p>
