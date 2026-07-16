@@ -5,13 +5,21 @@ IT Support Specialist • React Developer • Building Modern SaaS Web Applicati
 </h3>
 
 <p align="center">
-Passionate about solving real-world problems through technology and continuously improving my skills by building practical web applications.
+Passionate about solving real-world problems through technology and building practical web applications.
 </p>
 
 <p align="center">
-<a href="https://ats-resume-sr.vercel.app/">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/saidurrahman-tech">LinkedIn</a> •
-<a href="https://github.com/Rahman-SR">GitHub</a>
+<a href="https://www.linkedin.com/in/saidurrahman-tech">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ats-resume-sr.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rahman-SR">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -20,39 +28,57 @@ Passionate about solving real-world problems through technology and continuously
 
 I'm an aspiring **IT Support Specialist** and **React Developer** with a background in **Banking Operations**, **Customer Service**, and **Administration**.
 
-I enjoy building practical software, learning modern technologies, and solving real-world problems through clean and user-friendly web applications.
+After several years supporting customers through banking operations, I transitioned into Information Technology through continuous learning and hands-on development.
 
-Currently, I'm focused on developing SaaS products while preparing for opportunities in **IT Support**, **Help Desk**, and **Technical Support**.
+I enjoy building practical software that solves real-world problems while continuously improving my technical skills.
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Featured Projects
 
-### 📄 ATS Resume Builder
+## 📄 ATS Resume Builder
 
-An ATS-friendly Resume Builder that allows users to create professional resumes with authentication, resume history, and PDF export.
+Modern ATS-friendly Resume Builder built using React and Supabase.
+
+### Features
+
+- ATS-Friendly Resume Templates
+- User Authentication
+- Resume History
+- PDF Export
+- Responsive UI
+- Modern Dashboard
 
 **Tech Stack**
 
-React • JavaScript • HTML • CSS • Supabase • Vercel
+React • JavaScript • HTML • CSS • Supabase • Git • GitHub • Vercel
+
+🌐 Live Demo
+
+https://ats-resume-sr.vercel.app/
 
 ---
 
-### 📑 PDF Toolkit
+## 📑 PDF Toolkit
 
-A modern SaaS application for PDF management.
+Modern SaaS Web Application for PDF management.
 
-Features include:
+### Features
 
 - Merge PDF
 - Split PDF
 - Compress PDF
 - Convert PDF
 - Responsive Interface
+- Modern Dashboard
 
 **Status**
 
-🚧 Actively under development
+🚧 Currently under active development
+
+**Tech Stack**
+
+React • JavaScript • HTML • CSS • Supabase • Git • GitHub • Vercel
 
 ---
 
@@ -68,24 +94,27 @@ Features include:
 
 - Supabase
 
-### Other Skills
+### Professional Skills
 
 - IT Support
 - Help Desk Support
 - Technical Troubleshooting
-- Microsoft Office
 - Customer Service
 - Banking Operations
+- Microsoft Office
+- Documentation
+- Data Entry
+- Problem Solving
 
 ---
 
 # 🌱 Currently Learning
 
 - Advanced React
-- Supabase
-- SaaS Architecture
+- SaaS Development
 - IT Support
 - Help Desk Technologies
+- Cloud Fundamentals
 - AI Assisted Development
 
 ---
@@ -121,29 +150,41 @@ Features include:
 
 ---
 
-# 🎯 Career Goal
+# 🎯 2026 Goals
 
-My objective is to build a long-term career in **Information Technology**, specializing in **IT Support**, **Technical Support**, and modern **Web Application Development** while continuously improving my technical knowledge through real-world projects.
+- Build 10 production-ready web applications
+- Launch multiple SaaS products
+- Secure an IT Support / Help Desk role
+- Complete Google IT Support Professional Certificate
+- Learn Cloud Technologies
+- Continue contributing to open-source projects
 
 ---
 
-# 📫 Connect With Me
+# 🌍 Connect With Me
 
-📧 Email: sairahman247@gmail.com
+📧 **Email**
 
-💼 LinkedIn:
+sairahman247@gmail.com
+
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/saidurrahman-tech
 
-🌐 Portfolio:
+🌐 **Portfolio**
+
 https://ats-resume-sr.vercel.app/
 
-💻 GitHub:
+💻 **GitHub**
+
 https://github.com/Rahman-SR
 
 ---
 
 <p align="center">
 
-⭐ Thank you for visiting my profile! ⭐
+⭐ Thanks for visiting my profile!
+
+If you like my projects, feel free to ⭐ my repositories.
 
 </p>
