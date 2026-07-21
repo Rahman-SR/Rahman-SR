@@ -1,195 +1,137 @@
-<h1 align="center">Hi 👋, I'm Saidur Rahman</h1>
+<h1 align="center">Hi 👋, I'm Snow</h1>
 
 <h3 align="center">
-IT Support Specialist • React Developer • Building Modern SaaS Web Applications
+IT Support • Web App Developer • AI Builder
 </h3>
 
 <p align="center">
-Passionate about solving real-world problems through technology and building practical web applications.
+Building useful products with AI, Supabase & Modern Web Technologies.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/saidurrahman-tech">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-<a href="https://ats-resume-sr.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&center=true&vCenter=true&width=700&lines=IT+Support+Engineer;Web+App+Developer;Supabase+Developer;AI+Automation+Builder;Always+Learning+Something+New" />
 
-<a href="https://github.com/Rahman-SR">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-I'm an aspiring **IT Support Specialist** and **React Developer** with a background in **Banking Operations**, **Customer Service**, and **Administration**.
+💻 Building AI-powered Web Applications
 
-After several years supporting customers through banking operations, I transitioned into Information Technology through continuous learning and hands-on development.
+🛠 Working with Supabase + Vercel
 
-I enjoy building practical software that solves real-world problems while continuously improving my technical skills.
+🤖 Exploring AI Automation
 
----
+📱 Building SaaS & Utility Apps
 
-# 🚀 Featured Projects
+🌱 Currently Learning
 
-## 📄 ATS Resume Builder
-
-Modern ATS-friendly Resume Builder built using React and Supabase.
-
-### Features
-
-- ATS-Friendly Resume Templates
-- User Authentication
-- Resume History
-- PDF Export
-- Responsive UI
-- Modern Dashboard
-
-**Tech Stack**
-
-React • JavaScript • HTML • CSS • Supabase • Git • GitHub • Vercel
-
-🌐 Live Demo
-
-https://ats-resume-sr.vercel.app/
-
----
-
-## 📑 PDF Toolkit
-
-Modern SaaS Web Application for PDF management.
-
-### Features
-
-- Merge PDF
-- Split PDF
-- Compress PDF
-- Convert PDF
-- Responsive Interface
-- Modern Dashboard
-
-**Status**
-
-🚧 Currently under active development
-
-**Tech Stack**
-
-React • JavaScript • HTML • CSS • Supabase • Git • GitHub • Vercel
-
-
-🌐 Live Demo
-
-https://pdftoolsr.vercel.app/
+- Advanced Supabase
+- React
+- AI Integrations
+- GitHub Actions
+- System Design
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,vercel"/>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-</p>
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+
+---
 
 ### Backend
 
-- Supabase
-
-### Professional Skills
-
-- IT Support
-- Help Desk Support
-- Technical Troubleshooting
-- Customer Service
-- Banking Operations
-- Microsoft Office
-- Documentation
-- Data Entry
-- Problem Solving
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
 
 ---
 
-# 🌱 Currently Learning
+### Deployment
 
-- Advanced React
-- SaaS Development
-- IT Support
-- Help Desk Technologies
-- Cloud Fundamentals
-- AI Assisted Development
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
 ---
 
-# 📜 Certifications
+### Tools
 
-- 🎓 Post Graduate Diploma in Computer Applications (PGDCA)
-- 🏦 IIBF – Certificate Examination for Business Correspondents / Facilitators
-- 🤖 Google AI Essentials
-- 🚀 Google AI for App Building
+Git
 
----
+GitHub
 
-# 📊 GitHub Statistics
+VS Code
 
-<p align="center">
+Cursor
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahman-SR&show_icons=true&theme=github_dark&hide_border=true"/>
+Codex
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahman-SR&layout=compact&theme=github_dark&hide_border=true"/>
+Antigravity
 
-</p>
+Stitch
 
 ---
 
-# 🔥 Contribution Streak
+# 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-<img src="https://streak-stats.demolab.com?user=Rahman-SR&theme=github-dark&hide_border=true"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
 
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- Build 10 production-ready web applications
-- Launch multiple SaaS products
-- Secure an IT Support / Help Desk role
-- Complete Google IT Support Professional Certificate
-- Learn Cloud Technologies
-- Continue contributing to open-source projects
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-# 🌍 Connect With Me
+# 🏆 GitHub Trophy
 
-📧 **Email**
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15)
 
-sairahman247@gmail.com
+---
 
-💼 **LinkedIn**
+# 📈 Contribution Graph
 
-https://www.linkedin.com/in/saidurrahman-tech
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
 
-🌐 **Portfolio**
+---
 
-https://ats-resume-sr.vercel.app/
+# 🚀 Featured Projects
 
-💻 **GitHub**
+⭐ Resume Builder ATS
 
-https://github.com/Rahman-SR
+⭐ Taxflow (GST & ITR Management System)
+
+⭐ PDF Toolkit (In Progress)
+
+⭐ Invoice Generator
+
+---
+
+# 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com.in/saidurrahman-tech)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://vercel.com/rahman-sr)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:sairahman247@gmail.com)
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
-
-If you like my projects, feel free to ⭐ my repositories.
+⭐ If you like my work, consider giving a star to my repositories!
 
 </p>
