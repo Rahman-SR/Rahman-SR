@@ -30,6 +30,7 @@ I'm interested in building useful web applications, AI-powered tools, and produc
 
 ### What I'm building
 
+- [**Yoursthing ↗**](https://yoursthing.online) — Now live! [Source code](https://github.com/Rahman-SR/Yoursthing)
 - [**ResumePRO**](https://github.com/Rahman-SR/ResumePRO) — ATS-friendly resume builder.
 - [**TaxFlow**](https://github.com/Rahman-SR/TaxFlow) — GST and ITR dashboard.
 - [**PdfDocs**](https://github.com/Rahman-SR/PdfDocs) — Toolkit for PDF documents.
@@ -41,7 +42,6 @@ I'm interested in building useful web applications, AI-powered tools, and produc
 ### More of my work
 
 - [**Axom-tech**](https://github.com/Rahman-SR/Axom-tech)
-- [**Yoursthing**](https://github.com/Rahman-SR/Yoursthing)
 - [**SR-Demo**](https://github.com/Rahman-SR/SR-Demo) — My first repository as a beginner.
 - [**Rahman-SR**](https://github.com/Rahman-SR/Rahman-SR) — This GitHub profile README.
 
