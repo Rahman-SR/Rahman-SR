@@ -1,43 +1,70 @@
-# Saidur Rahman
-### IT Support · Web Development · AI Automation
-
-I build practical web apps and tools with React, Supabase, and AI.
-
-[GitHub](https://github.com/Rahman-SR) · [Email](mailto:sairahman247@gmail.com) · [Portfolio source](https://github.com/Rahman-SR/Portfolio)
+### 👋 Hi there, I'm Saidur Rahman!
 
 ---
 
-### / about
+![Profile views](https://komarev.com/ghpvc/?username=Rahman-SR&label=Profile%20views&color=ff3366&style=flat)
 
-Working on useful products, from resume builders to tax dashboards and PDF tools.
+I'm interested in building useful web applications, AI-powered tools, and products that solve everyday problems.
 
-Currently exploring **AI integrations**, **workflow automation**, and **system design**.
+- 💻 IT Support · Web App Developer · AI Builder
+- 🛠️ Building with React, Supabase, and Vercel
+- 🌱 Learning AI integrations, GitHub Actions, and system design
+- 📫 [sairahman247@gmail.com](mailto:sairahman247@gmail.com)
 
-### / stack
+### When I code, I rely on
 
-`JavaScript` `HTML` `CSS` `React` `Vite` `Supabase` `Vercel`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-149ECA?style=flat&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat)
+![Cursor](https://img.shields.io/badge/Cursor-222222?style=flat)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat)
+![Stitch](https://img.shields.io/badge/Stitch-FF6F00?style=flat)
 
-Tools: Git · GitHub · VS Code · Cursor · Codex · Antigravity · Stitch
+### What I'm building
 
-### / projects
+- [**ResumePRO**](https://github.com/Rahman-SR/ResumePRO) — ATS-friendly resume builder.
+- [**TaxFlow**](https://github.com/Rahman-SR/TaxFlow) — GST and ITR dashboard.
+- [**PdfDocs**](https://github.com/Rahman-SR/PdfDocs) — Toolkit for PDF documents.
+- [**GTS-Dashboard**](https://github.com/Rahman-SR/GTS-Dashboard) — Dashboard for GST and ITR agents.
+- [**LifeOS**](https://github.com/Rahman-SR/LifeOS) — Mobile application using Expo Go.
+- [**BJA-ENTERPRISE**](https://github.com/Rahman-SR/BJA-ENTERPRISE) — Website for a local shop.
+- [**Portfolio**](https://github.com/Rahman-SR/Portfolio) — My personal portfolio.
 
-| Project | Focus |
-| :--- | :--- |
-| [**ResumePRO ↗**](https://github.com/Rahman-SR/ResumePRO) | ATS-friendly resume builder |
-| [**TaxFlow ↗**](https://github.com/Rahman-SR/TaxFlow) | GST & ITR dashboard |
-| [**PdfDocs ↗**](https://github.com/Rahman-SR/PdfDocs) | PDF toolkit |
-| [**GTS-Dashboard ↗**](https://github.com/Rahman-SR/GTS-Dashboard) | GST & ITR agent dashboard |
-| [**LifeOS ↗**](https://github.com/Rahman-SR/LifeOS) | Mobile app using Expo Go |
-| [**BJA-ENTERPRISE ↗**](https://github.com/Rahman-SR/BJA-ENTERPRISE) | Local shop website |
-| [**Portfolio ↗**](https://github.com/Rahman-SR/Portfolio) | Personal portfolio |
+### More of my work
 
-### / more repositories
+- [**Axom-tech**](https://github.com/Rahman-SR/Axom-tech)
+- [**Yoursthing**](https://github.com/Rahman-SR/Yoursthing)
+- [**SR-Demo**](https://github.com/Rahman-SR/SR-Demo) — My first repository as a beginner.
+- [**Rahman-SR**](https://github.com/Rahman-SR/Rahman-SR) — This GitHub profile README.
 
-[Axom-tech](https://github.com/Rahman-SR/Axom-tech) &nbsp;·&nbsp;
-[Yoursthing](https://github.com/Rahman-SR/Yoursthing) &nbsp;·&nbsp;
-[SR-Demo](https://github.com/Rahman-SR/SR-Demo) &nbsp;·&nbsp;
-[Rahman-SR](https://github.com/Rahman-SR/Rahman-SR)
+If you find something useful, a ⭐ on the repository is always appreciated!
+
+### My GitHub contributions summary
+
+<img src="https://streak-stats.demolab.com/?user=Rahman-SR&theme=radical&hide_border=true&background=141414&ring=FF3366&fire=FFAA00&currStreakLabel=FF3366" alt="Saidur Rahman's GitHub contribution streak" width="495" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rahman-SR&show_icons=true&hide_border=true&bg_color=141414&title_color=FF3366&icon_color=FF3366&text_color=DDDDDD" alt="Saidur Rahman's GitHub statistics" width="495" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahman-SR&layout=compact&hide_border=true&bg_color=141414&title_color=FF3366&text_color=DDDDDD" alt="Most used languages in my public repositories" width="495" />
+
+### Let's connect
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sairahman247@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rahman-SR)
+[![Portfolio Source](https://img.shields.io/badge/Portfolio_Source-149ECA?style=flat&logo=github&logoColor=white)](https://github.com/Rahman-SR/Portfolio)
 
 ---
 
-<sub>Always learning. Always building.</sub>
+<sub>Learning, building, and improving — one project at a time.</sub>
