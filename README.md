@@ -2,7 +2,6 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=Rahman-SR&label=Profile%20views&color=ff3366&style=flat)
 
 I'm interested in building useful web applications, AI-powered tools, and products that solve everyday problems.
 
